@@ -9,4 +9,8 @@ public class DemotestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemotestApplication.class, args);
 	}
+	
+	public void test(){
+		String aa =  "ttt";
+	}
 }
